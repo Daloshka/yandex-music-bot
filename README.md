@@ -2,7 +2,7 @@
 
 <h2>Этот проект представляет собой бота для управления Яндекс Музыкой. Бот позволяет управлять вашими плейлистами, треками и другими функциями Яндекс Музыки прямо из Telegram.</h2>
 
-<h3>[ПОЛУЧЕНИЕ ТОКЕНА Yandex.Music](https://yandex-music.readthedocs.io/en/main/token.html)</h3>
+<h3 src="https://yandex-music.readthedocs.io/en/main/token.html">ПОЛУЧЕНИЕ ТОКЕНА Yandex.Music</h3>
 
 Установка
 Клонируйте репозиторий на ваш локальный компьютер:
